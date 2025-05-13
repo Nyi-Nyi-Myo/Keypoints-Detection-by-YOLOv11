@@ -15,10 +15,19 @@ Classes &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; - ROI with 2 keypoints,
 - Google Colab, Roboflow
 
 ## Results
-P = 
+- ### Validation of trained models
+P = 0.999
 
-R = 
+R = 1
 
-F1 = 
+F1 = 0.999
 
-mAP = 
+mAP = 0.995
+
+P = 0.852
+
+R = 0.875
+
+F1 = 0.863
+
+mAP = 0.836
