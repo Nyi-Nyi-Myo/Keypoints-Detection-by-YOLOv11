@@ -23,4 +23,4 @@ Classes &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; - ROI with 2 keypoints,
 | 2P model | 0.852 | 0.875 | 0.863 | 0.836 |
 
 ---
-* Example images results in `yolov11-keypoints.ipynb`
+⭐ Example Images results in `yolov11-keypoints.ipynb`
