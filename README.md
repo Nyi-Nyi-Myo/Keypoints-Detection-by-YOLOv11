@@ -16,18 +16,8 @@ Classes &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; - ROI with 2 keypoints,
 
 ## Results
 - ### Validation of trained models
-P = 0.999
 
-R = 1
-
-F1 = 0.999
-
-mAP = 0.995
-
-P = 0.852
-
-R = 0.875
-
-F1 = 0.863
-
-mAP = 0.836
+|          | P     | R     | F1    | mAP   |
+| ---------| ----- | ----- | ----- | ----- |
+| 3P model | 0.999 | 1     | 0.999 | 0.995 |
+| 2P model | 0.852 | 0.875 | 0.863 | 0.836 |
